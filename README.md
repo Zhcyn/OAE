@@ -1,0 +1,2 @@
+# OAE
+This is an application that records what you want and records your daily consumption.Users can plan their lives by adding their own order information and their own spending information. The project is currently still in the development stage. The logical integrity of the added information and the integrity of the interface are tested at the current stage. If you encounter any problems during the testing process, please contact me
